@@ -1,0 +1,39 @@
+body {
+    background-color: #eedae5;
+}
+
+h1{
+    color: #8f6277;
+}
+
+h2{
+    color: #870c3d
+}
+
+h3{
+    color: rgb(255, 0, 0);
+}
+
+h4{
+    color: #FF00FF;
+}
+
+.texto-vermelho{
+    color: #F00
+}
+
+.texto-azul{
+    color: #00F
+}
+
+.Skin-care{
+    background-color: #fd8bfd;
+}
+
+#produtos-para-o-cabelo{
+    background-color: #f58ff5;
+}
+
+#primeira-div{
+    background-color: #f77ff7;
+}
